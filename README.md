@@ -6,7 +6,7 @@
     <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Axl0-Fr&show_icons=true&theme=catppuccin_mocha" />
   </a>
   <a href="https://github.com/Axl0-Fr">
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Axl0-Fr&exclude-repo=legacy.Axl0-Fr.github.io,creatomat.github.io&langs_count=8&card_width=130&theme=catppuccin_mocha" /> 
+    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Axl0-Fr&exclude-repo=Axl0-Fr/legacy.Axl0-Fr.github.io,Axl0-Fr/creatomat.github.io&langs_count=8&card_width=130&theme=catppuccin_mocha" /> 
   </a>
 </p>
 
