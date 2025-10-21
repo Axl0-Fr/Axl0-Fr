@@ -14,7 +14,7 @@
 - 👀 I’m interested in Web developpement
 - 🌱 I’m currently learning how tu use `JavaScript` better
 - 💞️ I’m looking to make more stuff by myself
-- 📫 How to reach me: check my website! ⇝ [axl0.fr](axl0-fr.github.io)
+- 📫 How to reach me: check my website! ⇝ [axl0.fr](Axl0-Fr.github.io)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&&section=footer&text=Seeya!+%5C^o^%2F&fontSize=40&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40" />
